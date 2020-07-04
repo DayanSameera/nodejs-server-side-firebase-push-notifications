@@ -1,0 +1,18 @@
+{
+  "name": "firebase-push-notifications-pkg",
+  "version": "1.0.0",
+  "description": "firebase-push-notification package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^8.13.0"
+  },
+  "devDependencies": {
+    "nock": "^13.0.2"
+  }
+}
